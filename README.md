@@ -55,5 +55,7 @@ Enter your choice: 2
 
 Tasks:
 1. Buy groceries - Not Done
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+Feel Free to Contact
+ni78ha34l8@gmail.com
