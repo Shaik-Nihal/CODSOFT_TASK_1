@@ -10,7 +10,7 @@ How to Use
 Clone the repository:
 
 Copy code
-git clone https://github.com/Shaik-Nihal/todo-list-app.git
+git clone  https://github.com/Shaik-Nihal/CODSOFT_TASK_1.git 
 cd todo-list-app
 Run the application:
 
